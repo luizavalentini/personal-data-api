@@ -1,19 +1,21 @@
-# API-Pessoas 📘
+# Personal Data - API 
 
-### Projeto consumindo api de usuários, contendo página de login, cadastro, logout e lista de usuários, podendo adicionar uma nova pessoa, adicionar um contato ou endereço a ela, editar ou até mesmo deletar.
-Consiste em uma API com GET,POST,PUT e DELETE.
-<hr>
+## Description
+ Personal Data is a project that consumes a user API and provides functionalities such as a login page, registration, logout, and a list of users. You can add new people, associate contacts or addresses with them, edit information, or even delete them. The API supports GET, POST, PUT, and DELETE operations.
 
-### Para utilizar o projeto basta clicar no link da descrição, mas caso queira abrir o código no seu computador, te ensino aqui embaixo !
-1 - Crie uma pasta em seu computador. <br>
-2 - Abra o terminal e digite o comando " git clone https://github.com/GustavoScopinho/dadospessoais-api.git"
+## How to Use the Project
 
-### O projeto possui algumas dependências, aqui embaixo vai os comandos para você instalar:
+### Cloning the Repository
+If you want to run the project on your own computer, follow the steps below:
 
-1 - npm i <br>
+1. Create a folder on your computer.
+2. Open the terminal and type the following command to clone the repository:
+   ```shell
+   git clone https://github.com/luizavalentini/personal-data-api.git
 
+## Installing Dependencies
 
-### Para iniciar o projeto:
-Somente digitar no terminal: npm start
+The project has some dependencies that need to be installed. Use the following command to install all dependencies:
 
-<hr>
+```shell
+npm install
