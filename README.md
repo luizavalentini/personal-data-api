@@ -10,18 +10,24 @@ If you want to run the project on your own computer, follow the steps below:
 
 1. Create a folder on your computer.
 2. Open the terminal and type the following command to clone the repository:
-   ```shell
+
+    ```
    git clone https://github.com/luizavalentini/personal-data-api.git
+   ```
 
 ### Installing Dependencies
 
 The project has some dependencies that need to be installed. Use the following command to install all dependencies:
-npm install
+    ```
+   npm install
+    ```
 
 ### Starting the Project
 
 To start the project, simply type the following command in the terminal:
-npm start
+    ```
+   npm start
+    ```
 
 This will start the server and make the API available for use.
 
