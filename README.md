@@ -1,7 +1,7 @@
 # Personal Data - API 
 
 ## Description
- Personal Data is a project that consumes a user API and provides functionalities such as a login page, registration, logout, and a list of users. You can add new people, associate contacts or addresses with them, edit information, or even delete them. The API supports GET, POST, PUT, and DELETE operations.
+ Personal Data is a web project  that consumes a user API and provides functionalities such as a login page, registration, logout, and a list of users. You can add new people, associate contacts or addresses with them, edit information, or even delete them. The API supports GET, POST, PUT, and DELETE operations.
 
 ## How to Use the Project
 
